@@ -31,4 +31,8 @@
 #product-container{
     display: none;
 }
+.ofs{
+    font-weight: 600;
+    color: rgb(193, 22, 22);
+}
 
